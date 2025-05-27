@@ -1,6 +1,0 @@
-[preload  storage="./data/bgimage/high-school-5251586_1280.jpg"  ]
-[preload  storage="./data/fgimage/chara/1/花不爽小.png"  ]
-[preload  storage="./data/fgimage/chara/1/花驚訝小.png"  ]
-[preload  storage="./data/bgimage/BADEND.jpg"  ]
-[preload  storage="./data/bgimage/標註3.jpg"  ]
-[return]
